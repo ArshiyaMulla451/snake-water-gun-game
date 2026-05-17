@@ -1,2 +1,12 @@
-# snake-water-gun-game
-Snake Water Gun Game is a simple Python-based mini project where the user plays against the computer. The game uses loops, conditional statements, and Python’s random module to generate computer choices and calculate scores. This project helped in understanding basic game logic, user input handling, and decision-making in Python programming.
+# Snake Water Gun Game 🎮
+
+A simple Python game where the user plays Snake, Water, and Gun against the computer.
+
+## Technologies Used
+- Python
+- Random Module
+
+## How to Run
+1. Install Python
+2. Run the file:
+   python snake_water_gun_game.py
